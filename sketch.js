@@ -99,15 +99,6 @@ for (var i = 0; i < 10; i++){
   textSize(30);
   text("The Met: Top 10 Cultures by Object", 125, 70);
 
-};
+	};
 
 }
-
-
-
-// function draw(){
-//   ellipse(0,0,100,100);
-// }
- 
-   
-//  createCanvas(windowWidth, windowHeight);
